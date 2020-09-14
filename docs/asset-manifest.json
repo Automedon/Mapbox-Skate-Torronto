@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mapbox-Skate-Torronto/static/css/main.5a0cc7d1.chunk.css",
+    "main.js": "/Mapbox-Skate-Torronto/static/js/main.4e486804.chunk.js",
+    "main.js.map": "/Mapbox-Skate-Torronto/static/js/main.4e486804.chunk.js.map",
+    "runtime-main.js": "/Mapbox-Skate-Torronto/static/js/runtime-main.a3365df3.js",
+    "runtime-main.js.map": "/Mapbox-Skate-Torronto/static/js/runtime-main.a3365df3.js.map",
+    "static/js/2.dbc09b22.chunk.js": "/Mapbox-Skate-Torronto/static/js/2.dbc09b22.chunk.js",
+    "static/js/2.dbc09b22.chunk.js.map": "/Mapbox-Skate-Torronto/static/js/2.dbc09b22.chunk.js.map",
+    "index.html": "/Mapbox-Skate-Torronto/index.html",
+    "precache-manifest.71f411fc19fe717642e4556967f14f25.js": "/Mapbox-Skate-Torronto/precache-manifest.71f411fc19fe717642e4556967f14f25.js",
+    "service-worker.js": "/Mapbox-Skate-Torronto/service-worker.js",
+    "static/css/main.5a0cc7d1.chunk.css.map": "/Mapbox-Skate-Torronto/static/css/main.5a0cc7d1.chunk.css.map",
+    "static/js/2.dbc09b22.chunk.js.LICENSE.txt": "/Mapbox-Skate-Torronto/static/js/2.dbc09b22.chunk.js.LICENSE.txt",
+    "static/media/skate-side-view.svg": "/Mapbox-Skate-Torronto/static/media/skate-side-view.7010d550.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3365df3.js",
+    "static/js/2.dbc09b22.chunk.js",
+    "static/css/main.5a0cc7d1.chunk.css",
+    "static/js/main.4e486804.chunk.js"
+  ]
+}
